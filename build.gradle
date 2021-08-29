@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'net.valiry'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+    maven { url 'https://repo.spongepowered.org/maven' }
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    implementation "net.valiry:honey:1.0.0"
+    implementation 'com.github.Minestom:Minestom:a75910fe3f'
+}
