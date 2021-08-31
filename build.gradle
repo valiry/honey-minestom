@@ -13,6 +13,6 @@ repositories {
 }
 
 dependencies {
-    implementation "net.valiry:honey:1.0.0"
+    implementation "net.valiry:honey:1.1.0"
     implementation 'com.github.Minestom:Minestom:a75910fe3f'
 }

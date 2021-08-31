@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+extensions/
+
+*.iml
+*.honey
+src/main/java/net/valiry/honey/minestom/Launcher.java
